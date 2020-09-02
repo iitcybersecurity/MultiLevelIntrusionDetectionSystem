@@ -14,7 +14,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.preprocessing import LabelEncoder
 
 __version__ = "0.1"
-__author__ = 'Benedetto Marco Serinelli'
+__author__ = ''
 
 
 def train_and_test(dataset, data):
@@ -69,6 +69,5 @@ if __name__ == "__main__":
     data = pd.read_csv('../../dataset/kdd_prediction.csv', delimiter=',',
                        dtype={'protocol_type': str, 'service': str, 'flag': str, 'result': str})
     train_and_test('keras_kdd', data)
-    data = pd.read_csv('../../dataset/kdd_prediction_NSL.csv', delimiter=',',
-                       dtype={'protocol_type': str, 'service': str, 'flag': str, 'result': str})
-    train_and_test('keras_nsl_kdd', data)
+    #data = pd.read_csv('../../dataset/kdd_prediction_NSL.csv', delimiter=',', dtype={'protocol_type': str, 'service': str, 'flag': str, 'result': str})
+    #train_and_test('keras_nsl_kdd', data)
