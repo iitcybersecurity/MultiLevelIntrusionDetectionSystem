@@ -1,0 +1,4 @@
+Tutti i valori presi in considerazione sono 0.99
+
+Perciò la media complessiva sarà 0.99
+
