@@ -1,0 +1,249 @@
+Cross-Fold 1:
+
+Matrice multiclasse
+
+	Media Precision -> 0.74
+	Media Precision Pesata -> 0.97
+	
+	Media Recall -> 0.97
+	Media Recall Pesata -> 0.96
+
+	Media F1-Score -> 0.82
+	Media F1-Score Pesata -> 0.96
+
+	Accuracy = 0.96
+
+Matrice Binaria
+
+	Media Precision -> 0.974
+	Media Precision Pesata -> 0.978
+
+	Media Recall -> 0.980
+	Media Recall Pesata -> 0.977
+
+	Accuracy = 0.977
+
+Cross-Fold 2:
+
+Matrice multiclasse
+
+	Media Precision -> 0.63
+	Media Precision Pesata -> 0.96
+	
+	Media Recall -> 0.78
+	Media Recall Pesata -> 0.89
+
+	Media F1-Score -> 0.65
+	Media F1-Score Pesata -> 0.91
+
+	Accuracy = 0.89
+
+Matrice Binaria
+
+	Media Precision -> 0.973
+	Media Precision Pesata -> 0.976
+
+	Media Recall -> 0.977
+	Media Recall Pesata -> 0.975
+
+	Accuracy = 0.975
+
+Cross-Fold 3:
+
+Matrice multiclasse
+
+	Media Precision -> 0.84
+	Media Precision Pesata -> 0.97
+	
+	Media Recall -> 0.92
+	Media Recall Pesata -> 0.97
+
+	Media F1-Score -> 0.85
+	Media F1-Score Pesata -> 0.97
+
+	Accuracy = 0.97
+
+Matrice Binaria
+
+	Media Precision -> 0.985
+	Media Precision Pesata -> 0.986
+
+	Media Recall -> 0.967
+	Media Recall Pesata -> 0.986
+
+	Accuracy = 0.986
+
+Cross-Fold 4:
+
+Matrice multiclasse
+
+	Media Precision -> 0.80
+	Media Precision Pesata -> 0.97
+	
+	Media Recall -> 0.95
+	Media Recall Pesata -> 0.97
+
+	Media F1-Score -> 0.86
+	Media F1-Score Pesata -> 0.97
+
+	Accuracy = 0.97
+
+Matrice Binaria
+
+	Media Precision -> 0.981
+	Media Precision Pesata -> 0.983
+
+	Media Recall -> 0.984
+	Media Recall Pesata -> 0.983
+
+	Accuracy = 0.983
+
+Cross-Fold 5:
+
+Matrice multiclasse
+
+	Media Precision -> 0.86
+	Media Precision Pesata -> 0.98
+	
+	Media Recall -> 0.95
+	Media Recall Pesata -> 0.97
+
+	Media F1-Score -> 0.90
+	Media F1-Score Pesata -> 0.97
+
+	Accuracy = 0.97
+
+Matrice Binaria
+
+	Media Precision -> 0.983
+	Media Precision Pesata -> 0.985
+
+	Media Recall -> 0.985
+	Media Recall Pesata -> 0.984
+
+	Accuracy = 0.984
+
+Cross-Fold 6:
+
+Matrice multiclasse
+
+	Media Precision -> 0.83
+	Media Precision Pesata -> 0.98
+	
+	Media Recall -> 0.87
+	Media Recall Pesata -> 0.97
+
+	Media F1-Score -> 0.84
+	Media F1-Score Pesata -> 0.97
+
+	Accuracy = 0.97
+
+Matrice Binaria
+
+	Media Precision -> 0.986
+	Media Precision Pesata -> 0.986
+
+	Media Recall -> 0.986
+	Media Recall Pesata -> 0.986
+
+	Accuracy = 0.986
+
+Cross-Fold 7:
+
+Matrice multiclasse
+
+	Media Precision -> 0.75
+	Media Precision Pesata -> 0.98
+	
+	Media Recall -> 0.95
+	Media Recall Pesata -> 0.97
+
+	Media F1-Score -> 0.80
+	Media F1-Score Pesata -> 0.98
+
+	Accuracy = 0.97
+
+Matrice Binaria
+
+	Media Precision -> 0.979
+	Media Precision Pesata -> 0.981
+
+	Media Recall -> 0.983
+	Media Recall Pesata -> 0.981
+
+	Accuracy = 0.981
+
+Cross-Fold 8:
+
+Matrice multiclasse
+
+	Media Precision -> 0.78
+	Media Precision Pesata -> 0.98
+	
+	Media Recall -> 0.88
+	Media Recall Pesata -> 0.97
+
+	Media F1-Score -> 0.81
+	Media F1-Score Pesata -> 0.97
+
+	Accuracy = 0.97
+
+Matrice Binaria
+
+	Media Precision -> 0.981
+	Media Precision Pesata -> 0.982
+
+	Media Recall -> 0.982
+	Media Recall Pesata -> 0.981
+
+	Accuracy = 0.981
+
+Cross-Fold 9:
+
+Matrice multiclasse
+
+	Media Precision -> 0.71
+	Media Precision Pesata -> 0.97
+	
+	Media Recall -> 0.95
+	Media Recall Pesata -> 0.95
+
+	Media F1-Score -> 0.77
+	Media F1-Score Pesata -> 0.95
+
+	Accuracy = 0.95
+
+Matrice Binaria
+
+	Media Precision -> 0.974
+	Media Precision Pesata -> 0.977
+
+	Media Recall -> 0.978
+	Media Recall Pesata -> 0.976
+
+	Accuracy = 0.976
+
+Cross-Fold 10:
+
+Matrice multiclasse
+
+	Media Precision -> 0.70
+	Media Precision Pesata -> 0.97
+	
+	Media Recall -> 0.94
+	Media Recall Pesata -> 0.95
+
+	Media F1-Score -> 0.77
+	Media F1-Score Pesata -> 0.96
+
+	Accuracy = 0.95
+
+Matrice Binaria
+
+	Media Precision -> 0.975
+	Media Precision Pesata -> 0.978
+
+	Media Recall -> 0.979
+	Media Recall Pesata -> 0.977
+
+	Accuracy = 0.977

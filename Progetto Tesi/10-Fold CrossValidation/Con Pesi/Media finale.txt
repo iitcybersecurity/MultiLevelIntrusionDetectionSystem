@@ -1,0 +1,27 @@
+Multiclasse:
+
+La media è data da:
+
+AVG  =	(
+	 Media Precision         +
+	 Media Precision Pesata  +
+	 Media Recall            +
+	 Media Recall Pesata     + 
+	 Accuracy
+	)/50 = (4.6 + 4.15 + 4.67 + 4.66 + 4.73 + 4.62 + 4.62 + 4.58 + 4.53 + 4.51)/50 =
+
+	= 45.67/50 = 0.9134
+
+
+Binario:
+
+AVG  =  ( Media Precision         +
+	  Media Precision Pesata  +
+	  Media Recall            +
+	  Media Recall Pesata     + 
+	  Accuracy =
+	)/50 = ( 4.886 + 4.876 + 4.91 + 4.914 + 4.921 + 4.93 + 4.905 + 4.907 + 4.881 + 4.886)/50 
+
+	= 49.016/50 = 0.9803
+
+Media complessiva = 0.94685
