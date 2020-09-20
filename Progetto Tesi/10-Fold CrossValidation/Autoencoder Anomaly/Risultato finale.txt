@@ -1,0 +1,8 @@
+AVG  =  ( Media Precision         +
+	  Media Precision Pesata  +
+	  Media Recall            +
+	  Media Recall Pesata     + 
+	  Accuracy =
+	)/50 = (4.36 + 4.41 + 4.17 + 4.19 + 4.43 + 4.33 + 4.15 + 4.31 + 4.16)/50 
+
+	= 38.51/50 = 0.7702

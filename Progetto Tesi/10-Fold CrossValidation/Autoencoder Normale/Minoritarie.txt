@@ -1,0 +1,81 @@
+1: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 57/69 = 0.83
+
+2:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 55/69 = 0.93
+
+3:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 57/69 = 0.83
+
+4:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 57/69 = 0.78
+
+5:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 66/69 = 0.96
+
+6:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 58/69 = 0.84
+
+7:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 63/69 = 0.91
+
+8:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 53/69 = 0.77
+
+9:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 63/69 = 0.91
+
+10:
+
+U2R:
+Recall = TN/TN+FP = 8/12 = 0.67
+
+R2L:
+Recall = TN/TN+FP = 60/69 = 0.87

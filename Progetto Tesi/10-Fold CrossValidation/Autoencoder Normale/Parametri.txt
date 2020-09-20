@@ -1,0 +1,101 @@
+1:
+
+	Media Precision -> 0.880
+	Media Precision Pesata -> 0.892
+	
+	Media Recall -> 0.879
+	Media Recall Pesata -> 0.867
+
+	Accuracy = 0.86654
+
+2:
+
+	Media Precision -> 0.864
+	Media Precision Pesata -> 0.877
+	
+	Media Recall -> 0.862
+	Media Recall Pesata -> 0.849
+
+	Accuracy = 0.84907
+
+3:
+
+	Media Precision -> 0.873
+	Media Precision Pesata -> 0.85
+	
+	Media Recall -> 0.872
+	Media Recall Pesata -> 0.861
+
+	Accuracy = 0.86059
+
+4:
+
+	Media Precision -> 0.805
+	Media Precision Pesata -> 0.813
+	
+	Media Recall -> 0.809
+	Media Recall Pesata -> 0.804
+
+	Accuracy = 0.80372
+
+
+5:
+
+	Media Precision -> 0.881
+	Media Precision Pesata -> 0.893
+	
+	Media Recall -> 0.878
+	Media Recall Pesata -> 0.865
+
+	Accuracy = 0.86468
+
+
+6:
+
+	Media Precision -> 0.878
+	Media Precision Pesata -> 0.891
+	
+	Media Recall -> 0.877
+	Media Recall Pesata -> 0.865
+
+	Accuracy = 0.86468
+
+7:
+
+	Media Precision -> 0.876
+	Media Precision Pesata -> 0.889
+	
+	Media Recall -> 0.873
+	Media Recall Pesata -> 0.859
+
+	Accuracy = 0.85911
+
+8:
+
+	Media Precision -> 0.876
+	Media Precision Pesata -> 0.888
+	
+	Media Recall -> 0.874
+	Media Recall Pesata -> 0.862
+
+	Accuracy = 0.86171
+
+9:
+
+	Media Precision -> 0.878
+	Media Precision Pesata -> 0.891
+	
+	Media Recall -> 0.876
+	Media Recall Pesata -> 0.863
+
+	Accuracy = 0.86320
+
+10:
+
+	Media Precision -> 0.876
+	Media Precision Pesata -> 0.888
+	
+	Media Recall -> 0.874
+	Media Recall Pesata -> 0.861
+
+	Accuracy = 0.86059

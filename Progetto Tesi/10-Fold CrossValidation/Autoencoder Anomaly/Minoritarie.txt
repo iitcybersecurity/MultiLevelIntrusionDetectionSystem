@@ -1,0 +1,99 @@
+1: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 2/136 = 0.0147
+
+2: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 1/136 = 0.0074
+
+3: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 1/136 = 0.0074
+
+4: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 1/136 = 0.0074
+
+5: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 8/136 = 0.0588
+
+6: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 1/136 = 0.0074
+
+7: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 2/136 = 0.0147
+
+8: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 2/136 = 0.0147
+
+9: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 1/136 = 0.0074
+
+9: 
+
+Considerando solo la classe u2r e r2l:
+
+U2R:
+Recall = TN/TN+FP = 0/22 = 0.00
+
+R2L:
+Recall = TN/TN+FP = 2/136 = 0.0147
